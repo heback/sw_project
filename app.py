@@ -1,4 +1,6 @@
 import streamlit as st
 
-st.title("Hello     World")
+st.title("Hello World")
+st.header("SW Project 실습")
+
 
